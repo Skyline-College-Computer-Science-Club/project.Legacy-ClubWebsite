@@ -1,6 +1,6 @@
 # Club Website
 
-A informational website about the Skyline College Computer Science Club.
+An informational website about the Skyline College Computer Science Club.
 
 ## Getting Started
 
