@@ -33,7 +33,7 @@ export default function Home() {
               <div className="p-5 mb-4 bg-light rounded-3">
                 <div className="px-lg-5">
                   <h1 className="display-5 fw-bold">
-                    Skyline College's Computer Science Club
+                    Skyline College&apos;s Computer Science Club
                   </h1>
                   <p className="col-md-8 fs-4">Mission statement here</p>
                 </div>
@@ -55,7 +55,7 @@ export default function Home() {
                   </h3>
                   {/* Using the css version of Bootstrap since I am not sure on how to rewrite it 
                       with the React-Bootstrap version */}
-                  <div class="row row-cols-1 row-cols-md-3 g-4 py-5 py-lg-3">
+                  <div className="row row-cols-1 row-cols-md-3 g-4 py-5 py-lg-3">
                     {/* Loop through list and output a card element for each officer */}
                     {officers.map((officer) => (
                       // Each element needs to be identified uniquely via key attribute in order to prevent
@@ -94,7 +94,9 @@ export default function Home() {
             <div className="p-5 mb-4 bg-light rounded-3">
               <div className="px-lg-5">
                 <h2 className="display-5 fw-bold">Projects</h2>
-                <p>We're currently planning a few projects! Stay tuned! </p>
+                <p>
+                  We&apos;re currently planning a few projects! Stay tuned!{" "}
+                </p>
                 {/* <div className="col mb-4">
                   <div class="row row-cols-1 row-cols-md-3 g-4 py-5">
                     <div class="col">
