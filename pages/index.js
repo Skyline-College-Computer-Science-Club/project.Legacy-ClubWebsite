@@ -9,14 +9,14 @@ import Col from "react-bootstrap/Col";
 // Feel free to change this accordingly once new officers are elected and/or new roles are added.
 const officers = [
   {
-    name: "Alysia Tanimura",
+    name: "Matthew Dacanay",
     role: "President",
     imgSrc: "/assets/imgs/phonto.png",
   },
-  { name: "Name", role: "Vice President", imgSrc: "/" },
-  { name: "Name", role: "Treasurer", imgSrc: "/" },
-  { name: "Douglas Yu", role: "Secretary", imgSrc: "/" },
-  { name: "Name", role: "Publicity Officer", imgSrc: "/" },
+  { name: "Owen Fan", role: "Vice President", imgSrc: "/" },
+  { name: "Eden Huang", role: "Treasurer", imgSrc: "/" },
+  { name: "Camille Catolos", role: "Secretary", imgSrc: "/" },
+  { name: "John Carlo Manuel", role: "Project Manager", imgSrc: "/" },
   { name: "Denise Hum", role: "Co-Advisor", imgSrc: "/" },
   { name: "Bryan Swartout", role: "Co-Advisor", imgSrc: "/" },
 ];
