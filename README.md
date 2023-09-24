@@ -1,4 +1,4 @@
-# 🌍 Club Website
+# Club Website
 
 An informational website about the Skyline College Computer Science Club.
 
